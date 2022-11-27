@@ -1,7 +1,7 @@
 <h1 align="center"> Hello, I'm Mohd Jauwad 👨‍💻 </h1>
 
 <h3 align="center">  Cloud | DevOps Enthusiast, Software Engineering student 🚀 from Hyderabad, India</h3> 
--------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
