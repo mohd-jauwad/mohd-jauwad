@@ -1,67 +1,186 @@
-<h1 align="center"> Hello, I'm Mohd Jauwad 👨‍💻 </h1>
+<!-- Heading -->
+<h3 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi there! I'm Jauwad</h3>
 
-<h3 align="center">  Cloud | DevOps Enthusiast. Software Engineering student 🚀 from Hyderabad, India</h3> 
+<h4 align="center">Experienced Tech Support Professional at Google Nest, now pursuing Cloud Engineer role. Strong troubleshooting, AWS enthusiasm, and collaboration skills. Eager to contribute to a dynamic cloud computing team. </h4>
 <hr>
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+
+<!-- Shields -->
+<p align="center">
+  <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
+  <!-- Add more shields here -->
+</p>
+
+<h3>👨🏻‍💻 &nbsp;About Me</h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; I’m pursuing a Bachelor's degree in Computer Science.
+- 🎓 &nbsp; Pursuing a Bachelor's degree in Computer Science.
 - 🌱 &nbsp; Learning more about Cloud Architecture, DevOps Tools.
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+<h3>🛠 &nbsp;Tech Stack</h3>
 
-- 💻 &nbsp;
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-- 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-- 🛢 &nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-<br/>
 
+</p>
+ 
+---
+
+
+
+### Frameworks 
+
+<p align="left">
+
+   <a href="#">
+    <img src="svg/dev/frameworks/bootstrap.svg" alt="bootstrap" style="vertical-align:top; margin:6px 4px">
+  </a>  
+
+
+</p>
+
+### Languages 
+
+
+  <a href="#">
+    <img src="svg/dev/languages/css3.svg" alt="css3" style="vertical-align:top; margin:6px 4px">
+  </a>  
+
+
+
+  <a href="#">
+    <img src="svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:6px 4px">
+  </a>  
+
+  <a href="#">
+    <img src="svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:6px 4px">
+  </a>  
+
+</p>
+
+### Misc
+
+
+   <a href="#">
+    <img src="svg/dev/misc/cloud.svg" alt="cloud" style="vertical-align:top; margin:6px 4px">
+  </a>  
+
+   <a href="#">
+    <img src="svg/dev/misc/desktop.svg" alt="desktop" style="vertical-align:top; margin:6px 4px">
+  </a>  
+
+
+   <a href="#">
+    <img src="svg/dev/misc/firefox.svg" alt="firefox" style="vertical-align:top; margin:6px 4px">
+  </a>  
+
+
+   <a href="#">
+    <img src="svg/dev/misc/web.svg" alt="web" style="vertical-align:top; margin:6px 4px">
+  </a>  
+
+</p>
+
+### Services 
+<p align="left">
+  <a href="#">
+    <img src="svg/dev/services/aws.svg" alt="aws" style="vertical-align:top; margin:6px 4px">
+  </a> 
+
+  <a href="#">
+    <img src="svg/dev/services/azure.svg" alt="azure" style="vertical-align:top; margin:6px 4px">
+  </a> 
+
+
+  <a href="#">
+    <img src="svg/dev/services/digitalocean.svg" alt="digitalocean" style="vertical-align:top; margin:6px 4px">
+  </a> 
+
+  <a href="#">
+    <img src="svg/dev/services/dockerhub.svg" alt="dockerhub" style="vertical-align:top; margin:6px 4px">
+  </a> 
+
+  <a href="#">
+    <img src="svg/dev/services/gcp.svg" alt="gcp" style="vertical-align:top; margin:6px 4px">
+  </a> 
+
+  <a href="#">
+    <img src="svg/dev/services/google_cloud_platform.svg" alt="google_cloud_platform" style="vertical-align:top; margin:6px 4px">
+  </a> 
+
+
+  <a href="#">
+    <img src="svg/dev/services/kubernetes.svg" alt="kubernetes" style="vertical-align:top; margin:6px 4px">
+  </a> 
+
+  <a href="#">
+    <img src="svg/dev/services/office_365.svg" alt="office 365" style="vertical-align:top; margin:6px 4px">
+  </a> 
+
+  
+</p>
+
+
+### Tools  
+
+  <a href="#">
+    <img src="svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:6px 4px">
+  </a> 
+
+  <a href="#">
+    <img src="svg/dev/tools/docker.svg" alt="docker" style="vertical-align:top; margin:6px 4px">
+  </a> 
+
+  <a href="#">
+    <img src="svg/dev/tools/jetbrains_pycharm.svg" alt="jetbrains_pycharm" style="vertical-align:top; margin:6px 4px">
+  </a> 
+
+
+  <a href="#">
+    <img src="svg/dev/tools/powershell.svg" alt="powershell" style="vertical-align:top; margin:6px 4px">
+  </a> 
+
+
+  <a href="#">
+    <img src="svg/dev/tools/visualstudio.svg" alt="visualstudio" style="vertical-align:top; margin:6px 4px">
+  </a> 
+
+  <a href="#">
+    <img src="svg/dev/tools/visualstudio_code.svg" alt="visualstudio_code" style="vertical-align:top; margin:6px 4px">
+  </a> 
+
+
+  <a href="#">
+    <img src="svg/dev/tools/vmware.svg" alt="vmware" style="vertical-align:top; margin:6px 4px">
+  </a> 
+
+
+</p>
+
+--- 
+
+
+</p>
+
+
+
+
+## Social & Professional 
+<p>
+  <a href="#">
+    <img src="svg/social/gmail.svg" alt="gmail" style="vertical-align:top; margin:6px 4px">
+  </a>  
+</p>
+
+
+<!-- Your GitHub stats and top languages cards -->
 <a href="https://github.com/mohd-jauwad">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohd-jauwad&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohd-jauwad&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&layout=compact" />
 </a>
 
-<br/>
+<br>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<!-- Visitor count -->
 ### ✨ Visitors 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohd-jauwad" alt="mohd-jauwad" /> </p>
-
-
-
-<!-- 
-
-
-
-
-### Tools
-
-**Software Development:**
-
-[![IntelliJ IDEA](https://img.shields.io/badge/-red?style=flat&logo=IntelliJ-IDEA&logoColor=white&link=https://github.com/Quananhle "IntelliJ IDEA")](https://github.com/Quananhle)
-[![Docker](https://img.shields.io/badge/-2496ED?style=flat&logo=Docker&logoColor=white&link=https://github.com/Quananhle "Docker")](https://github.com/Quananhle)
-[![Visual Studio](https://img.shields.io/badge/-007ACC?style=flat&logo=Visual-Studio-Code&logoColor=white&link=https://github.com/Quananhle "Visual Studio")](https://github.com/Quananhle)
-[![Vim](https://img.shields.io/badge/-019733?style=flat&logo=Vim&logoColor=white&link=https://github.com/Quananhle "Vim")](https://github.com/Quananhle)
-[![AzureDevops](https://img.shields.io/badge/-0175C2?style=flat&logo=azureDevops&logoColor=white&link=https://github.com/Quananhle "AzureDevops")](https://github.com/Quananhle)
-
-
-**SDLC**
-[![Agile](https://img.shields.io/badge/Agile-blue?style=flat&logo=Agile&logoColor=white&link=https://github.com/Quananhle "Agile")](https://github.com/Quananhle) [![Scrum](https://img.shields.io/badge/Scrum-green?style=flat&logo=Scrum&logoColor=white&link=https://github.com/Quananhle "Scrum")](https://github.com/Quananhle) [![Kanban](https://img.shields.io/badge/Kanban-red?style=flat&logo=Kanban&logoColor=white&link=https://github.com/Quananhle "Kanban")](https://github.com/Quananhle)
-
-
-**Version Control:**
-[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/Quananhle)](https://github.com/Quananhle) 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/Quananhle)](https://github.com/Quananhle) -->
